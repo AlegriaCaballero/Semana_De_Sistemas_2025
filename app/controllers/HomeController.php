@@ -30,21 +30,27 @@ class HomeController {
             ],
             2 => [
                 'titulo' => 'Día 2 - Talleres Prácticos y Exposiciones',
-                'descripcion' => 'Talleres de ciberseguridad, IA y desarrollo web.',
-                'imagen' => '/img/dia2.jpg'
+                'descripcion' => 'El dia de hoy vimos varios talleres y ponencias, empezando con desciciones basadas en datos la cual fue bastante interesante de ver ya q se pueden tomar muchas deciciones con ese conocimeinto. y despues vimos crud de laravel y filamento, me intereso mucho este taller por q es algo q voy a ver en TPI lo cual me prepara para lo q viene en esa materia. y por ultimo IA multimodal, muy utial para trabajar de una forma mas organizada y precisa.',
+                'imagen1' => '../public/img/Dia2/1.jpg',
+                'imagen2' => '../public/img/Dia2/2.jpg',
+                'imagen3' => '../public/img/Dia2/3.jpg',
+                'imagen4' => '../public/img/Dia2/4.jpg',
+                'imagen5' => '../public/img/Dia2/5.jpg',
+                'imagen6' => '../public/img/Dia2/6.jpg',
+                'imagen7' => '../public/img/Dia2/7.jpg',
             ],
             3 => [
-                'titulo' => 'Día 3 - Competencias y Hackathon',
+                'titulo' => 'Día 3 - Talleres Prácticos y Exposiciones',
                 'descripcion' => 'Los equipos compitieron en retos de programación.',
                 'imagen' => '/img/dia3.jpg'
             ],
             4 => [
-                'titulo' => 'Día 4 - Conferencias Internacionales',
+                'titulo' => 'Día 4 - Talleres Prácticos y Exposiciones',
                 'descripcion' => 'Invitados de distintas universidades compartieron experiencias.',
                 'imagen' => '/img/dia4.jpg'
             ],
             5 => [
-                'titulo' => 'Día 5 - Clausura y Premiación',
+                'titulo' => 'Día 5 - Talleres Prácticos y Exposiciones',
                 'descripcion' => 'Se reconoció el esfuerzo de los participantes y equipos ganadores.',
                 'imagen' => '/img/dia5.jpg'
             ],
