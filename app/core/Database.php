@@ -10,7 +10,7 @@ class Database {
     private $conn;
 
     private function __construct() {
-        $config = require_once '../app/config/database.php';
+        $config = require_once 'app/config/database.php';
         $dsn = "pgsql:host={$config['host']};port={$config['port']};dbname={$config['dbname']}";
 
         try {
